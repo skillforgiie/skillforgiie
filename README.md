@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Prudence 👋</h1>
+<h1 align="center">Hey, I'm Prudence </h1>
 
 <p align="center">
   <strong>CS Graduate · Systems & Automation Engineer · AI-Curious Builder</strong><br/>
@@ -20,18 +20,18 @@ I think in systems. I build in public. I document everything.
 
 | Track | Focus |
 |-------|-------|
-| 🔧 **Automation & Systems** | Process modeling, workflow automation, systems analysis & design |
-| 🤖 **AI Engineering** | LLM APIs, prompt engineering, AI-assisted tooling |
-| 🏥 **Health Tech** *(long horizon)* | Health informatics, clinical data systems, digital health |
+| **Automation & Systems** | Process modeling, workflow automation, systems analysis & design |
+| **AI Engineering** | LLM APIs, prompt engineering, AI-assisted tooling |
+| **Health Tech** *(long horizon)* | Health informatics, clinical data systems, digital health |
 
 ---
 
 ### Currently
 
-- 🎓 Completing CS degree — graduating in 2 months
-- 🔨 Building automation and systems projects in public
-- 📖 Learning: BPMN process modeling · n8n · LLM API integration
-- 🌍 Looking for: junior systems analyst · automation engineer · AI engineer roles
+-  Completing CS degree — graduating in 2 months
+-  Building automation and systems projects in public
+-  Learning: BPMN process modeling · n8n · LLM API integration
+-  Looking for: junior systems analyst · automation engineer · AI engineer roles
 
 ---
 
@@ -53,5 +53,5 @@ learning   = ["LangChain", "BPMN", "Health Informatics (HL7/FHIR)"]
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-HERE">LinkedIn</a> ·
-  <a href="mailto:YOUR-EMAIL-HERE">Email</a>
+  <a href="mailto:kpmarumo25@gmail.com">Email</a>
 </p>
