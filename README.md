@@ -1,16 +1,23 @@
-## Hi there 👋
+# skillforgiie
 
-<!--
-**skillforgiie/skillforgiie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS graduate · Systems & Automation Engineer · AI-curious builder
 
-Here are some ideas to get you started:
+I design and build systems that reduce friction —
+turning complex processes into clean, automated workflows.
+Primary track: automation & systems design.
+Edge: AI engineering. Long horizon: health tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently shipping: projects that solve real problems and document real thinking.
+
+## What I work with
+- Python · systems design · process modeling (BPMN)
+- Workflow automation · API integration · n8n
+- LLM APIs · prompt engineering · AI-assisted tooling
+- Health informatics (learning)
+
+## What I'm building toward
+Systems that matter in healthcare, logistics, and infrastructure —
+designed by someone who understands both the code and the problem.
+
+
+> "Build it. Document it. Ship it. Repeat."
